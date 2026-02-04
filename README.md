@@ -210,3 +210,23 @@ See the `LICENSE` file for details.
 
 ---
 
+## Local Backend Setup (MacOS)
+
+- Created isolated virtual environment
+- Resolved dependency conflicts
+- Fixed invalid package versions
+- Added missing libraries
+- Successfully validated secured API endpoints
+
+Backend tested locally on MacOS.
+
+## Backend Setup (MacOS)
+
+- Created isolated Python virtual environment
+- Resolved dependency conflicts during installation
+- Fixed invalid package versions
+- Added missing libraries (PyYAML)
+- Successfully started the modular Flask server
+- Validated authenticated API routes locally
+
+Backend tested and stabilized on MacOS.
